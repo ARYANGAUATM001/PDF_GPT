@@ -29,7 +29,8 @@ streamlit run app.py
 
 ```
 WORKING:
-![Screenshot (436)](https://github.com/ARYANGAUTAM001/langchain1_pdf/assets/109799316/0c161a3c-1f5c-4ba3-936c-df2ae61887c6)
 
+
+![Screenshot (438)](https://github.com/ARYANGAUTAM001/langchain1_pdf/assets/109799316/41141a5a-3511-4670-8943-228b04859df8)
 
 
