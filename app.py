@@ -48,7 +48,7 @@ def main():
           response = chain.run(input_documents=docs, question=user_question)
           print(cb)
            
-        st.write(response)
+        st.write(response) #code
         #code
     
 
